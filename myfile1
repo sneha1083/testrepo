@@ -1,0 +1,9 @@
+total 8 locators 
+xpath css name class id linkedtext partial linkedtext classname
+xpath type are 
+xpath by text 
+xpath by contains
+xpath by attribute
+xpath relative and absolute path
+this change in file is not a part of local repo and remote repo
+so first i have to add this file on staging then commit to local repo then push to remote repo.
